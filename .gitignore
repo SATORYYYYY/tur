@@ -1,0 +1,45 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+*.sqlite3
+db.sqlite3
+migrations/
+*.log
+*.pot
+*.pyc
+.DS_Store
+coverage/
+htmlcov/
+.pytest_cache/
+.tox/
+*.egg-info/
+dist/
+build/
+
+# React / Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+build/
+staticfiles/
+*.local.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Системные файлы
+Thumbs.db
+Desktop.ini
